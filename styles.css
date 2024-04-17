@@ -1,0 +1,74 @@
+*{
+    margin-trim: 0;
+    padding:0;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px; 
+}
+#cabecalho{
+    height: 150px;
+    background-color: rgb(78, 206, 28);
+    width:95%;
+    margin: 0 auto;
+   text-align: center;
+   color: aliceblue;
+}
+#menu{
+    height: 500px;
+    width: 272px;
+    background-color: greenyellow;
+    float:left;
+    margin-left: 37px;
+    margin-top : 10px;
+}
+#conteudo{
+    height: 500PX;
+    width: 828px;
+    background-color: rgb(207, 247, 207);
+    float : left;
+    margin-top: 10px;
+    margin-left: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#lado{
+    height: 500PX;
+    width: 272px;
+    background-color: greenyellow;
+    float : left;
+    margin-left: 5px;
+    margin-top: 10px;
+    margin-block-end: 5px;
+}
+#rodape{
+    height: 150PX;
+    background-color: rgb(63, 218, 24);
+    clear: both;
+    width: 95%;
+    margin: 0 auto;
+    text-align: center;
+    color: aliceblue;
+}
+
+.button {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #04AA6D;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+  }
+  
+  .button:hover {background-color: #3e8e41}
+  
+  .button:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px); 
+  }
