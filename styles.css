@@ -19,8 +19,8 @@ body{
     width: 272px;
     background-color: greenyellow;
     float:left;
-    margin-left: 0px;
-    margin-top : 0px;
+    margin-left: 20px;
+    margin-top : 20px;
 }
 #conteudo{
     height: 500PX;
@@ -36,8 +36,8 @@ body{
     width: 272px;
     background-color: greenyellow;
     float : left;
-    margin-left: 0px;
-    margin-top: 0px;
+    margin-left: 5px;
+    margin-top: 10px;
     margin-block-end: 5px;
 }
 #rodape{
