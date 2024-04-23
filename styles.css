@@ -2,6 +2,7 @@
     margin-trim: 0;
     padding:0;
 }
+
 body{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 22px; 
@@ -16,7 +17,7 @@ body{
 }
 #menu{
     height: 500px;
-    width: 14%;
+    width: 15%;
     background-color: greenyellow;
     float:left;
     margin-left: 50px;
@@ -24,8 +25,8 @@ body{
 }
 #conteudo{
     height: 500PX;
-    width: 62%;
-    background-color: rgb(207, 247, 207);
+    width: 60%;
+    background-color: rgb(93, 232, 23);
     float : left;
     margin-top: 10px;
     margin-left: 5px;
@@ -33,7 +34,7 @@ body{
 }
 #lado{
     height: 500PX;
-    width: 14%;
+    width: 15%;
     background-color: greenyellow;
     float : left;
     margin-left: 5px;
