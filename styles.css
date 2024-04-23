@@ -20,7 +20,7 @@ body{
     width: 14%;
     background-color: greenyellow;
     float:left;
-    margin-left: 68px;
+    margin-left: 70px;
     margin-top : 10px;
 }
 #conteudo{
@@ -34,7 +34,7 @@ body{
 }
 #lado{
     height: 500PX;
-    width: 10%;
+    width: 8%;
     background-color: greenyellow;
     float : left;
     margin-left: 5px;
