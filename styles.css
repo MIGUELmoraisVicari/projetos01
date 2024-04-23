@@ -16,15 +16,15 @@ body{
 }
 #menu{
     height: 500px;
-    width: 272px;
+    width: 250px;
     background-color: greenyellow;
     float:left;
-    margin-left: 20px;
+    margin-left: 50px;
     margin-top : 10px;
 }
 #conteudo{
     height: 500PX;
-    width: 849px;
+    width: 800px;
     background-color: rgb(207, 247, 207);
     float : left;
     margin-top: 10px;
@@ -33,7 +33,7 @@ body{
 }
 #lado{
     height: 500PX;
-    width: 272px;
+    width: 252px;
     background-color: greenyellow;
     float : left;
     margin-left: 5px;
