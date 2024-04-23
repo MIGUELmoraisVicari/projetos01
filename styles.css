@@ -17,7 +17,7 @@ body{
 }
 #menu{
     height: 500px;
-    width: 15%;
+    width: 14%;
     background-color: greenyellow;
     float:left;
     margin-left: 50px;
@@ -34,7 +34,7 @@ body{
 }
 #lado{
     height: 500PX;
-    width: 15%;
+    width: 14%;
     background-color: greenyellow;
     float : left;
     margin-left: 5px;
